@@ -1,0 +1,2 @@
+D:\编程start\Project2\Debug\Project2.exe
+D:\编程start\Project2\Debug\Project2.pdb
