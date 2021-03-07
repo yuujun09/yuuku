@@ -1,0 +1,5 @@
+﻿  源.cpp
+  闰年.c
+D:\编程start\9_22(2)\闰年.c(6): warning C4715: “is_leap_year”: 不是所有的控件路径都返回值
+闰年.obj : error LNK2005: _main 已经在 源.obj 中定义
+D:\编程start\9_22(2)\Debug\9_22(2).exe : fatal error LNK1169: 找到一个或多个多重定义的符号
