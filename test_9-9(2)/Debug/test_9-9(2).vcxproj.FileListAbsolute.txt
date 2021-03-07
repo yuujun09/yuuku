@@ -1,0 +1,2 @@
+D:\编程start\test_9-9(2)\Debug\猜数字_test_9-9(2).exe
+D:\编程start\test_9-9(2)\Debug\猜数字_test_9-9(2).pdb
